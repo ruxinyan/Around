@@ -13,7 +13,7 @@ import (
 	"github.com/pborman/uuid"
 	"reflect"
 	"golang.org/x/net/context"
-	"context"
+	
 	"cloud.google.com/go/bigtable"
 
 )
